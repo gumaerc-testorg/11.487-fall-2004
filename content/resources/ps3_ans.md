@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions to a problem set on urban public finance in developing countries.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-487-urban-public-finance-in-developing-countries-fall-2004/3e5ff202ae235a483213157deeb3f700_ps3_ans.pdf
+file: /media/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/3e5ff202ae235a483213157deeb3f700_ps3_ans.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 3 Answers
 uid: 3e5ff202-ae23-5a48-3213-157deeb3f700
