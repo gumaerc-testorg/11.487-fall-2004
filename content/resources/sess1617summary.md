@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 080d15aa-ca2d-445a-3acf-1f547ffce699
 resourcetype: Document
 title: Summary and Questions for Week 8
 uid: fb10ddf8-0d02-1208-38c6-f7d83aa4282d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 080d15aa-ca2d-445a-3acf-1f547ffce699
 resourcetype: Document
 title: Fiscal crisis and fiscal reform in developing countries
 uid: 823a8f8a-b1d6-f766-5ca3-4795774100e5

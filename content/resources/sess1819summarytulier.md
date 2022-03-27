@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 080d15aa-ca2d-445a-3acf-1f547ffce699
 resourcetype: Document
 title: "Summary of \u201CAchieving Balance in Decentralization: A Case Study of Education\
   \ Decentralization in Chile\u201D"

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 080d15aa-ca2d-445a-3acf-1f547ffce699
 resourcetype: Document
 title: 'Utilities Privatization and the Poor: Lessons and Evidence from Latin America'
 uid: 8d9f044c-182f-1b51-1599-06269a1da467
