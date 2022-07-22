@@ -5,6 +5,7 @@ file: /courses/11-487-urban-public-finance-in-developing-countries-fall-2004/1ef
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 2 Answers
 uid: 1ef4a2f2-51a4-1dca-48d6-a59256a2fa8b
 ---
 Solutions to a problem set on urban public finance in developing countries.
-

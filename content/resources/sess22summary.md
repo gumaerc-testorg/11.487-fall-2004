@@ -5,6 +5,7 @@ file: /courses/11-487-urban-public-finance-in-developing-countries-fall-2004/823
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Fiscal crisis and fiscal reform in developing countries
 uid: 823a8f8a-b1d6-f766-5ca3-4795774100e5
 ---
 Student summary of reading assignment with discussion questions.
-
