@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student summary of reading assignment with discussion questions.
-file: /courses/11-487-urban-public-finance-in-developing-countries-fall-2004/8d9f044c182f1b51159906269a1da467_sess2324summary.pdf
+file: /ol-ocw-studio-app/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/8d9f044c182f1b51159906269a1da467_sess2324summary.pdf
 file_size: 22691
 file_type: application/pdf
 learning_resource_types:
