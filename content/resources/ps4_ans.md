@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on urban public finance in developing countries.
-file: /ol-ocw-studio-app/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/81862eeaf598ede3361019e3583a75e2_ps4_ans.pdf
+file: /courses/11-487-urban-public-finance-in-developing-countries-fall-2004/81862eeaf598ede3361019e3583a75e2_ps4_ans.pdf
 file_size: 14112
 file_type: application/pdf
 learning_resource_types:
